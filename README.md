@@ -1,2 +1,2 @@
 # OCR_Colab
-Google Colabで作成した自作OCR
+Google Colabで作成したOCR
